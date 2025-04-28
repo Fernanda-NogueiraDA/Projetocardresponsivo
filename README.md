@@ -5,9 +5,7 @@
 This is a responsive profile card inspired by modern social media UI.  
 It features a circular profile image and displays information like **name, age, city, number of followers, likes, and posts**.
 
-🔗 Live Site: (
-
-)
+🔗 Live Site: (http://127.0.0.1:5500/profile-card-component-main/index.html)
 
 ---
 
