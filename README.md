@@ -1,64 +1,28 @@
-# Responsive Profile Card Project
+# Projeto de Cartão de Perfil Responsivo
 
-## 📌 Overview
+## 📌 Visão Geral
 
-This is a responsive profile card inspired by modern social media UI.  
-It features a circular profile image and displays information like **name, age, city, number of followers, likes, and posts**.
+Este é um cartão de perfil responsivo inspirado em interfaces modernas de redes sociais.  
+Ele apresenta uma **imagem de perfil circular** e exibe informações como **nome, idade, cidade, número de seguidores, curtidas e publicações**.
 
-🔗 Live Site: (http://127.0.0.1:5500/profile-card-component-main/index.html)
+Site ao vivo: [Clique aqui](https://fernanda-nogueirada.github.io/Projetocardresponsivo/)
 
 ---
 
-## 🛠️ Built With
+## 🛠️ Tecnologias Utilizadas
 
-- Semantic HTML5 markup
-- CSS custom properties
+- HTML5 semântico
+- Propriedades personalizadas de CSS
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
+- Metodologia Mobile First
 
 ---
 
-## ✨ What I Learned
+## ✨ O que eu aprendi
 
-Through this project, I reinforced my understanding of:
+Com este projeto, aprofundei meus conhecimentos em:
 
-- Creating responsive layouts using Flexbox and Grid.
-- Styling circular profile images using border-radius and object-fit.
-- Applying Mobile First design principles.
-
-🧩 Example of code I'm proud of:
-
-```html
-<img class="profile-image" src="your-image.jpg" alt="Profile picture">
-css
-Copiar
-Editar
-.profile-image {
-  width: 96px;
-  height: 96px;
-  border-radius: 50%;
-  object-fit: cover;
-  border: 5px solid white;
-}
-🔄 Continued Development
-Areas I plan to improve in future projects:
-
-Enhancing responsiveness on very small devices (below 320px width)
-
-Improving accessibility (ARIA tags, color contrast)
-
-Adding smooth animations for hover effects and transitions
-
-📚 Useful Resources
-CSS-Tricks: A Complete Guide to Flexbox
-
-👩‍💻 Author
-Name: Fernanda Nogueira
-
-GitHub: Fernanda-NogueiraDA
-
-🙌 Acknowledgments
-Thanks to everyone who shared tips and tutorials about building responsive profile cards!
-This project was developed with care and continuous learning.
-
+- Criação de layouts responsivos utilizando Flexbox e Grid.
+- Estilização de imagens de perfil circulares com `border-radius` e `object-fit`.
+- Aplicação dos princípios de design Mobile First.
